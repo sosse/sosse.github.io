@@ -23,7 +23,7 @@ body {
 
 .fill {
     width: 100%;
-    height: 100%;
+    height: contain;
     background-position: center;
     -webkit-background-size: contain;
     -moz-background-size: contain;
